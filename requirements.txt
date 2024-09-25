@@ -1,5 +1,5 @@
 
-python3.12-distutils  
+pip install --upgrade pip
 
 Flask==2.0.1
 itsdangerous==2.0.1
