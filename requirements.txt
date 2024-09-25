@@ -1,5 +1,5 @@
-pip install --upgrade setuptools wheel
-sudo apt-get install python3.12-distutils  # For Debian/Ubuntu
+
+python3.12-distutils  
 
 Flask==2.0.1
 itsdangerous==2.0.1
