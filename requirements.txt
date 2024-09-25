@@ -15,7 +15,8 @@ sklearn==0.0
 streamlit==0.73.1
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.15.0  # Adjusted for Python 3.12 compatibility
+tensorflow==2.15.0
 tensorflow-estimator==2.4.0
 Werkzeug==2.0.1
-pandas==1.5.3  # Upgraded for better compatibility with modern versions
+pandas==1.5.3
+setuptools==65.5.0  # Ensure you have a compatible version
